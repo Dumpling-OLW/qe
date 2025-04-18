@@ -1,6 +1,4 @@
-System.Console.WriteLine("ooooooooooooooooooooooooooooooooooooooooooooooo");
+
+System.Console.WriteLine("uiuiuiuiuiuiuiuiuiuiuiuiuiui");
 int t;
-t=77;
-
-
 t=9;
